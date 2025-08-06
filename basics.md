@@ -4,9 +4,9 @@ To start writing our first program, there are several things we need to do. Name
 
 ### Download Python
 To install python, go to the python site, python.org and download the most recent version, which at the time of writing, is version 3.15.1. From this page, you can also install a specific version if necessary based on school or work needs.
-```
+
 https://www.python.org/downloads/
-```
+
 After downloading python, run the executable (.exe file). Follow the steps. When it asks you to install, make sure you check the box add python.exe to PATH before clicking `Install Now`
 
 <img width="653" height="401" alt="image" src="https://github.com/user-attachments/assets/a2504dc1-a243-4f4d-9d1a-6cea633dcc47" />
