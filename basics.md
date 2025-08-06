@@ -8,6 +8,7 @@ To install python, go to the python site, python.org and download the most recen
 https://www.python.org/downloads/
 ```
 After downloading python, run the executable (.exe file). Follow the steps. When it asks you to install, make sure you check the box add python.exe to PATH before clicking `Install Now`
+
 <img width="653" height="401" alt="image" src="https://github.com/user-attachments/assets/a2504dc1-a243-4f4d-9d1a-6cea633dcc47" />
 
 
@@ -18,6 +19,7 @@ There are many different options when it comes to an IDE. Some of the most popul
 Go to the official vscode webpage and click download: https://code.visualstudio.com/download
 Click on the right download link based on your operating system. This guide will include the download installation for windows.
 When asked for the different options, make sure to select `Add to PATH`. I also recommend selecting the other options to make it easier to open files. It allows for opening vscode on a specific file by right clicking it and selecting open with vscode. Adding vscode as a desktop will also make it easier to open vscode later however, it is not a requirement for vscode to work properly.
+
 <img width="596" height="464" alt="image-1" src="https://github.com/user-attachments/assets/87559f7f-0b62-4d79-81b7-80acbe857c39" />
 
 
